@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daud-github
-- 👀 I’m interested in Data Analytics, Machine Learning, AI and Crypto.
-- 🌱 I’m currently learning Data Analytics and Machine Learning
+- 👀 I’m interested in Data Analytics/Science/Engineering, Machine Learning, AI, DevOps and Crypto.
+- 🌱 ----------------------------------------------------
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me? nope not now.
 
